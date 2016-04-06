@@ -1,6 +1,6 @@
 name: EmmaRogers
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.35734
 typography_spectrum: 0.4046
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#556765'
     - '#323004'
   brandStrength: 0
-  lightness: 0.75
+  lightness: 0.6875
   saturation: 1
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.75
 purpose: []
